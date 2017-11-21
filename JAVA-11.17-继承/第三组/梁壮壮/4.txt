@@ -1,0 +1,22 @@
+package Á·Ï°;
+
+public class ceshi {
+
+	public static void main(String[] args) {
+		
+		jingquan c=new jingquan();
+		c.setPinzhong("ÄÁÑòÈ®");
+		c.setYanse("»ÆÉ«");
+		c.setZhongliang(160);
+		c.setNianling(3);
+		c.zuikuaishisu=(180);
+		c.yanjingyanse=("À¶É«");
+		c.tuideshuliang=(4);
+		c.info();
+		c.work();
+		c.chi();
+	}
+	
+	
+	
+}
