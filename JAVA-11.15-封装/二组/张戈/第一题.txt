@@ -1,0 +1,18 @@
+package com.gege;
+
+public class O1 {
+	/*
+	 * 1、思考你身边有哪些事物,并创建为类,然后实例化这个类
+	 */
+		public String mingzi;
+		public String zhonglei;
+		public int nianling;
+		public double zhongliang;
+		
+		public void Dog(){
+			System.out.println("这是一只叫"+mingzi+"的"+zhonglei+"狗"+"今年已经"+nianling+"岁了,有"+zhongliang+"公斤重.");
+		}
+		
+	
+
+}
