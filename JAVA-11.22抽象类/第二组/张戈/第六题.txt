@@ -1,2 +1,0 @@
-1.将属性私有化，吧public改成private
-2.提供公有的get、set方法
