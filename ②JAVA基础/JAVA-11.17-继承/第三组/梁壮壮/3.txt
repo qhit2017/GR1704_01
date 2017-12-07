@@ -1,0 +1,8 @@
+package Á·Ï°;
+
+public class dongwu {
+
+	public int tuideshuliang;
+	public String yanjingyanse;
+	
+}
