@@ -1,0 +1,98 @@
+package com.gege;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+
+public class O1 {
+	public static void main(String[] args) {
+		List<XS> list=new ArrayList<XS>();
+		Scanner sc =new Scanner(System.in);
+		while(true){
+			System.out.println("请按键：1.录入考生的高考信息 2	.显示所有考生信息 3.查询最高分, 包括: 总分最高分 和 单科最高分 4.退出功能");
+			int num=sc.nextInt();
+			if(num==1){
+				System.out.println("录入考生的高考信息，信息格式是：姓名,编号,语文成绩,数学成绩,英语成绩");
+				String str =sc.next();
+				String arr[]= str.split(",");
+				XS a =new XS();
+				a.setXingming(arr[0]);
+				a.setBianhao(arr[1]);
+				a.setYuwen(Integer.parseInt(arr[2]));
+				a.setShuxue(Integer.parseInt(arr[3]));
+				a.setYingyu(Integer.parseInt(arr[4]));
+				
+				list.add(a);
+				System.out.println("添加成功");
+			}else if(num==2){
+				for(XS e:list){
+					e.info();
+				}
+			}else if(num==3){
+				while(true){
+					System.out.println("请按键：1.打印总分最高分 2.打印语文最高分 3.打印数学最高分 4.打印英语最高分 5.退出");
+					int i=sc.nextInt();
+					if(i==1){
+						int max=0;
+						String name ="";
+						for(XS e:list){
+							if(max<e.getYuwen()+e.getShuxue()+e.getYingyu()){
+								max=e.getYuwen()+e.getShuxue()+e.getYingyu();
+							}else if(max==e.getYuwen()+e.getShuxue()+e.getYingyu()){
+								name=name+","+e.getXingming();
+							}
+						}
+						System.out.println("总分最高分是："+max+"他的名字是"+name);
+					}else if(i==2){
+						int max =0;
+						String name ="";
+						for(XS e:list){
+							if(max<e.getYuwen()){
+								max=e.getYuwen();
+							}else if(max==e.getYuwen()){
+								name=name+","+e.getXingming();
+							}
+						}
+						System.out.println("语文最高分是："+max+"他的名字是"+name);
+					}else if(i==3){
+						int max =0;
+						String name ="";
+						for(XS e:list){
+							if(max<e.getShuxue()){
+								max=e.getShuxue();
+							}else if(max==e.getShuxue()){
+								name=name+","+e.getXingming();
+							}
+						}
+						System.out.println("数学最高分是："+max+"他的名字是"+name);
+					}else if(i==4){
+						int max =0;
+						String name ="";
+						for(XS e:list){
+							if(max<e.getYingyu()){
+								max=e.getYingyu();
+							}else if(max==e.getYingyu()){
+								name =name+","+e.getXingming();
+							}
+						}
+						System.out.println("英语最高分是："+max+"他的名字是"+name);
+					}else if(i==5){
+						System.out.println("返回主菜单");
+						break;
+					}else{
+						System.out.println("请输入正确的按键！");
+					}
+				}
+				
+				
+				
+				
+			}else if(num==4){
+				System.out.println("退出工程");
+			}else{
+				System.out.println("请输入正确的按键");
+			}
+		}
+	}
+
+}
