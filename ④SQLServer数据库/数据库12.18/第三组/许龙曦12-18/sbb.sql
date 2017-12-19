@@ -1,0 +1,11 @@
+select*from sbb
+insert into sbb values(1,'打印机','2010-1-1','打印')
+insert into sbb values(2,'照相机','2012-1-2','照相')
+insert into sbb values(3,'油烟机','2010-1-1','吸油吸烟')
+insert into sbb values(4,'空调','2010-1-2','制冷制热')
+insert into sbb values(5,'复印机','2011-2-3','复制')
+insert into sbb values(6,'饮水器','2010-3-6','制冷制热')
+insert into sbb values(7,'热水器','2010-1-1','制冷制热')
+insert into sbb values(8,'净水器','20-1-2','净化水')
+insert into sbb values(9,'冰箱','2001-2-3','制冷制热')
+insert into sbb values(10,'扫描仪','2010-2-3','扫描')
