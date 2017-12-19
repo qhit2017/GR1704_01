@@ -1,0 +1,22 @@
+insert into cjb(xm,xh,km,cj)values('张一','1','政治','87');
+insert into cjb(xm,xh,km,cj)values('张二','1','语文','86');
+insert into cjb(xm,xh,km,cj)values('张三','1','政治','92');
+insert into cjb(xm,xh,km,cj)values('张四','1','政治','88');
+insert into cjb(xm,xh,km,cj)values('张五','1','政治','82');
+insert into cjb(xm,xh,km,cj)values('张六','1','政治','85');
+insert into cjb(xm,xh,km,cj)values('张七','1','数学','96');
+insert into cjb(xm,xh,km,cj)values('张一','1','政治','82');
+insert into cjb(xm,xh,km,cj)values('张八','1','英语','46');
+insert into cjb(xm,xh,km,cj)values('张九','1','政治','49');
+insert into cjb(xm,xh,km,cj)values('张十','1','历史','76');
+insert into cjb(xm,xh,km,cj)values('王一','1','政治','83');
+insert into cjb(xm,xh,km,cj)values('王二','1','生物','91');
+insert into cjb(xm,xh,km,cj)values('王三','1','政治','66');
+insert into cjb(xm,xh,km,cj)values('王四','1','政治','68');
+insert into cjb(xm,xh,km,cj)values('王五','1','政治','62');
+insert into cjb(xm,xh,km,cj)values('王六','1','政治','63');
+insert into cjb(xm,xh,km,cj)values('王七','1','政治','51');
+insert into cjb(xm,xh,km,cj)values('王八','1','政治','80');
+insert into cjb(xm,xh,km,cj)values('王九','1','政治','63');
+insert into cjb(xm,xh,km,cj)values('王十','1','政治','75');
+select * from cjb

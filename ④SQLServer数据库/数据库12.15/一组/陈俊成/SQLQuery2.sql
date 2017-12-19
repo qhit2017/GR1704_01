@@ -1,0 +1,23 @@
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(1,'张三',21,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(2,'起航',22,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(3,'姬神',23,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(4,'八戒',25,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(5,'玉峰',28,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(6,'壮壮',21,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(7,'李四',29,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(8,'王五',24,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(9,'马六',26,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(10,'赛赛',11,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(11,'梁哲',25,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(12,'胖子',29,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(13,'张一',15,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(14,'张四',12,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(15,'张五',18,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(16,'张六',9,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(17,'张七',26,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(18,'张八',18,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(19,'张九',23,'2001-02-01')
+insert  into stndent1(xuehao,xingming,nianling,riqi)values(20,'张十',26,'2001-02-01')
+
+
+select * from stndent1

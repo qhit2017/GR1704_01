@@ -1,0 +1,23 @@
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ·å',28,'ÓïÎÄ',96)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ1',29,'ÓïÎÄ',56)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ2',30,'ÓïÎÄ',25)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ3',31,'ÓïÎÄ',23)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ4',32,'ÓïÎÄ',54)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ5',33,'ÓïÎÄ',98)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ6',34,'ÓïÎÄ',100)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ7',35,'ÓïÎÄ',99)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ8',36,'ÓïÎÄ',97)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ9',37,'ÓïÎÄ',96)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ10',38,'ÓïÎÄ',96.5)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ11',39,'ÓïÎÄ',89)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ12',40,'ÓïÎÄ',68)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ13',41,'ÓïÎÄ',78)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ14',42,'ÓïÎÄ',48)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ15',43,'ÓïÎÄ',64)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ16',44,'ÓïÎÄ',100)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ17',45,'ÓïÎÄ',29)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ18',46,'ÓïÎÄ',65)
+insert  into stndent2(xingming,xuehao,kemu,chengji)values('Óñ19',47,'ÓïÎÄ',33)
+
+
+select * from stndent2

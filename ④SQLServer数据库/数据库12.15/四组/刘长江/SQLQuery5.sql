@@ -1,0 +1,21 @@
+insert into xsb(xh,xm,nl,rq)values('4127236530','ÎºÑÓ',16,'2016-9-2');
+insert into xsb(xh,xm,nl,rq)values('4127236531','ÎºÑÓ',17,'2016-9-5');
+insert into xsb(xh,xm,nl,rq)values('4127236532','ÎºÑÓ',18,'2016-9-6');
+insert into xsb(xh,xm,nl,rq)values('4127236533','ÎºÑÓ',19,'2016-9-8');
+insert into xsb(xh,xm,nl,rq)values('4127236534','ÎºÑÓ',20,'2016-9-9');
+insert into xsb(xh,xm,nl,rq)values('4127236535','ÎºÑÓ',21,'2016-9-7');
+insert into xsb(xh,xm,nl,rq)values('4127236536','ÎºÑÓ',22,'2016-9-3');
+insert into xsb(xh,xm,nl,rq)values('4127236537','ÎºÑÓ',23,'2016-9-1');
+insert into xsb(xh,xm,nl,rq)values('4127236538','ÎºÑÓ',24,'2016-9-1');
+insert into xsb(xh,xm,nl,rq)values('4127236539','ÎºÑÓ',25,'2016-9-1');
+insert into xsb(xh,xm,nl,rq)values('4127236530','ÎºÑÓ',16,'2016-9-10');
+insert into xsb(xh,xm,nl,rq)values('4127236530','ÎºÑÓ',16,'2016-9-11');
+insert into xsb(xh,xm,nl,rq)values('4127236530','ÎºÑÓ',26,'2016-9-12');
+insert into xsb(xh,xm,nl,rq)values('4127236541','ÎºÑÓ',16,'2016-9-13');
+insert into xsb(xh,xm,nl,rq)values('4127236530','ÎºÑÓ',30,'2016-9-14');
+insert into xsb(xh,xm,nl,rq)values('4127236545','ÎºÑÓ',31,'2016-9-15');
+insert into xsb(xh,xm,nl,rq)values('4127236546','ÎºÑÓ',32,'2016-9-16');
+insert into xsb(xh,xm,nl,rq)values('4127236545','ÎºÑÓ',33,'2016-9-17');
+insert into xsb(xh,xm,nl,rq)values('4127236556','ÎºÑÓ',34,'2016-9-18');
+insert into xsb(xh,xm,nl,rq)values('4127236550','ÎºÑÓ',35,'2016-9-20');
+select * from xsb

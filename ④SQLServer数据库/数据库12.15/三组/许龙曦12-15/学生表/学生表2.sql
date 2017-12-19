@@ -1,0 +1,1 @@
+create table student(id int,name nvarchar(4),age nchar(1),indate datetime)

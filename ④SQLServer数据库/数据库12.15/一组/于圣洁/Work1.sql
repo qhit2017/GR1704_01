@@ -1,0 +1,22 @@
+select * from Student;
+insert into Student(cid,cname,cage,crxrq)values(1,'一',11,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(2,'二',12,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(3,'三',13,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(4,'四',14,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(5,'五',15,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(6,'六',16,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(7,'七',14,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(8,'八',16,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(9,'九',12,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(10,'十',11,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(11,'十一',19,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(12,'十二',18,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(13,'十三',16,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(14,'十四',14,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(15,'十五',15,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(16,'十六',21,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(17,'十七',21,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(18,'十八',15,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(19,'十九',12,'2017-09-06');
+insert into Student(cid,cname,cage,crxrq)values(20,'二十',15,'2017-09-06');
+

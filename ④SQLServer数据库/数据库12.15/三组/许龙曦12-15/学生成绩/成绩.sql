@@ -1,0 +1,1 @@
+create table chengji(name nvarchar(3),id int,subject nchar(2),suae int)
