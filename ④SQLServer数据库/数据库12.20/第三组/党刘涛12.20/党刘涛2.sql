@@ -1,0 +1,8 @@
+INSERT INTO student VALUES(1,'党刘涛','男',16,'电脑',99)
+INSERT INTO student VALUES (2,'陈启航','男',16,'画画',30)
+INSERT INTO student VALUES(3,'需陇西','男',86,'it',10)
+INSERT INTO student VALUES (4,'梁装置','男',17,'黑客',69)
+INSERT INTO student VALUES(5,'李家康','男',17,'舞蹈',100)
+INSERT INTO student VALUES(6,'申宇浩','女',15,'游戏',100)
+INSERT INTO student VALUES(7,'章鱼头','x',30,'海鲜',110)
+INSERT INTO student VALUES(3,'鸡爪子','女',56,'',106)
