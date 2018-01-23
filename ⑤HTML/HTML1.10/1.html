@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>表单</title>
+  <script type="text/javascript">
+      function a(){
+         
+        var username = document.getElementById("username").value;
+        if(username ==1 || username==2 || username==3 ){
+          document.getElementById("myImg").src=username+".jpg";
+        }else{
+           alert('您输入的图片不存在');
+           document.getElementById("myImg").src="";
+        }
+      }
+
+      function getGradeVal(){
+         document.getElementById("showVal").innerHTML = document.getElementById("grade").value;
+      }
+  </script>
+</head>
+<body style="font-family: 宋体">
+  <form>
+    用户名：<input type="text" name="username" id="username" required="required"> <br/>
+    密&nbsp;码：<input type="password" name="psw"><Br/>
+    年&nbsp;龄：<input type="number" name="age" min="1" max="120"  readonly="readonly"><br/>
+    生&nbsp;日：<input type="month" name="birth"><Br/>
+    喜欢的颜色：<input type="color" name="fcolor" id="fcolor"><br/>
+    个人照片：<input type="file" name="filename"><br/>
+    游戏级别：<input type="range" name="grade" min="1" max="10" onclick ="getGradeVal()" id="grade">  <span id="showVal"></span> <Br/>
+    籍&nbsp;贯：
+    <select style="width: 150px;">
+      <option></option>
+      <option>周口</option>
+      <option>漯河</option>
+      <option selected="selected">洛阳</option>
+      <option>开封</option>
+    </select><br/>
+    性&nbsp;别：男<input type="radio" name="sex" value="男"> 女<input type="radio" name="sex" value="女"><br/>
+    爱&nbsp;好：读书 <input type="checkbox" name="funs" value="dushu">  &nbsp;
+           敲代码<input type="checkbox" name="funs" value="qiaodaima" checked="checked"> &nbsp;
+           游戏<input type="checkbox" name="funs" value="youxi"> <br/>
+    自我介绍：<br/>
+    <textarea  name="selfInfomation">
+      
+    </textarea><br/>
+    <input type="button" name="" value="你点个试试" onclick="a();"> <br/>
+    <div>
+      <img id="myImg"></img>
+    </div>
+    <input type="submit" name=""> &nbsp; <input type="reset" name="">
+  </form>
+</body>
+</html>
