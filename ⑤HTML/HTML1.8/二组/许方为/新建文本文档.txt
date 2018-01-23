@@ -1,0 +1,177 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>个人简历</title>
+	<style type="text/css">
+		tr{
+			height: 30px;
+		}
+	</style>
+</head>
+<body style="margin-left:300px;margin-right: 300px;font-family: 幼圆" >
+	<h1 style="text-align: center;">个人简历</h1>
+	<table border="1" width="100%" cellspacing="0px">
+		<tr style="background-color: #79FF79">
+			<td colspan="5">&nbsp;基本情况</td>
+		</tr>
+		<tr>
+			<td width="15%">&nbsp;姓&nbsp;&nbsp;名 </td> 
+			<td width="20%">李彦宏</td>
+			<td width="15%">&nbsp;性&nbsp;&nbsp;别</td>
+			<td width="20%">男</td>
+			<td width="30%" rowspan="7"><img src="1.jpg" height="200px"></td>
+		</tr>
+		<tr>
+			<td width="15%">&nbsp;民&nbsp;&nbsp;族</td>
+			<td width="20%">汉</td>
+			<td width="15%">&nbsp;出生年月</td>
+			<td width="20%">1978-9-12</td>
+		</tr>
+		<tr>
+			<td width="15%">&nbsp;政治面貌</td>
+			<td width="20%">帅</td>
+			<td width="15%">&nbsp;健康情况</td>
+			<td width="20%">很健康</td>
+		</tr>
+		<tr>
+			<td width="15%">&nbsp;籍&nbsp;&nbsp;贯</td>
+			<td width="20%">北京</td>
+			<td width="15%">&nbsp;学&nbsp;&nbsp;历</td>
+			<td width="20%">初中毕业</td>
+		</tr>
+		<tr>
+			<td width="15%">&nbsp;电子信箱</td>
+			<td width="20%">21544244ff</td>
+			<td width="15%">&nbsp;联系电话</td>
+			<td width="20%">88888888888</td>
+		</tr>
+		<tr>
+			<td width="15%">&nbsp;专&nbsp;&nbsp;业</td>
+			<td width="50%" colspan="3">清华it</td>	
+		</tr>
+		<tr>
+			<td width="15%">&nbsp;毕业院校</td>
+			<td width="50%" colspan="3">周口职业技术学校</td>	
+		</tr>
+		<tr>
+			<TD>&nbsp;求职意向</TD>
+			<td colspan="4">一月5万</td>
+
+		</tr>
+
+	</table>
+	<table border="1" width="100%" cellspacing="0px" style="border-collapse: collapse;">
+		<tr style="background-color: #79FF79">
+			<td colspan="4">&nbsp;教育情况</td>
+		</tr>
+		<tr>
+			<TD width="25%">&nbsp;时间</TD>
+			<TD width="25%">&nbsp;院校名称</TD> 
+			<TD width="25%">&nbsp;专业</TD>
+			<TD width="25%">&nbsp;学历</TD>
+		</tr>
+		<tr>
+			<TD>2018-1-8</TD>
+			<TD>信息工程</TD> 
+			<TD>清华IT</TD>
+			<TD>大专</TD>
+		</tr>
+		<tr>
+			<TD>2017-6-15</TD>
+			<TD>软件</TD> 
+			<TD>开发</TD>
+			<TD>大专</TD>
+		</tr>
+	</table>
+
+<table border="1" width="100%" cellspacing="0px" style="border-collapse: collapse;">
+		<tr style="background-color: #79FF79">
+			<td colspan="4">&nbsp;培训经历</td>
+		</tr>
+		<tr>
+			<TD width="25%">&nbsp;时间</TD>
+			<TD width="25%">&nbsp;培训机构</TD> 
+			<TD width="25%">&nbsp;专业</TD>
+			<TD width="25%">&nbsp;学历</TD>
+		</tr>
+		<tr>
+			<TD>2016-1-1</TD>
+			<TD>软件</TD> 
+			<TD>开发</TD>
+			<TD>中专</TD>
+		</tr>
+		<tr>
+			<TD>2017-1-1</TD>
+			<TD>软件</TD> 
+			<TD>开发</TD>
+			<TD>大专</TD>
+		</tr>
+	</table>
+	<table border="1" width="100%" cellspacing="0px" style="border-collapse: collapse;">
+		<tr style="background-color: #79FF79">
+			<td width="1" >&nbsp;技能特长</td>
+		<tr>
+		<td rowspan="2">开发软件.软件工程美化</td>
+		</tr>
+		<tr></tr>
+
+		
+	
+	</table>
+
+
+
+<table border="1" width="100%" cellspacing="0px" style="border-collapse: collapse;">
+		<tr style="background-color: #79FF79">
+			<td colspan="4">&nbsp;工作经验</td>
+		</tr>
+		<tr>
+			<TD width="25%">&nbsp;时间</TD>
+			<TD width="25%">&nbsp;公司名称</TD> 
+			<TD width="25%">&nbsp;职位</TD>
+			<TD width="25%">&nbsp;工作内容</TD>
+		</tr>
+		<tr>
+			<TD>2011-1-1</TD>
+			<TD>北京</TD> 
+			<TD>老总</TD>
+			<TD>喝茶</TD>
+		</tr>
+
+<table border="1" width="100%" cellspacing="0px" style="border-collapse: collapse;">
+		<tr style="background-color: #79FF79">
+			<td >&nbsp;英文.计算机水平</td>
+		<tr>
+			<td rowspan="2">9级</td>
+
+		</tr>
+		<tr></tr>
+		
+
+<table border="1" width="100%" cellspacing="0px" style="border-collapse: collapse;">
+		<tr style="background-color: #79FF79">
+			<td >&nbsp;奖励荣誉</td>
+		<tr>
+			<td rowspan="2">国家高级程序员</td>
+
+		</tr>
+		<tr></tr>
+
+		<table border="1" width="100%" cellspacing="0px" style="border-collapse: collapse;">
+		<tr style="background-color: #79FF79">
+			<td >&nbsp;自我评价</td>
+		<tr>
+			<td rowspan="2">完美，无可挑剔</td>
+
+		</tr>
+		<tr></tr>
+
+
+
+		
+</body>
+</html
